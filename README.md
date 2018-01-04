@@ -1,2 +1,3 @@
 # HelloWorld
-This is a test version
+This is a sample version
+
